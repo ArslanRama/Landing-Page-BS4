@@ -1,7 +1,7 @@
 # Landing-Page-BS4
  
 * Desktop Version
-  ![desktop-mockup](desktop.jpg)
+  ![desktop-mockup](Desktop.jpg)
 
 * Mobile Version
-  ![mobile-mockup](mobile%20.jpg)
+  ![mobile-mockup](Mobile.jpg)
