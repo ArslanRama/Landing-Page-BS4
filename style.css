@@ -45,6 +45,8 @@ header.masthead h1 {
   }
 }
 
+/* ICON GRID */
+
 .features-icons {
   padding-top: 7rem;
   padding-bottom: 7rem;
@@ -64,6 +66,8 @@ header.masthead h1 {
 
 .features-icons .features-icons-item:hover .features-icons-icon i {
   font-size: 5rem;
+  color: #0156b3;
+  cursor: pointer;
 }
 
 .testimonials {
