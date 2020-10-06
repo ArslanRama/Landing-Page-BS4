@@ -1,7 +1,4 @@
 
-body {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
 
 h1,
 h2,
@@ -43,15 +40,6 @@ header.masthead h1 {
   header.masthead h1 {
     font-size: 3rem;
   }
-}
-
-.showcase .showcase-text {
-  padding: 3rem;
-}
-
-.showcase .showcase-img {
-  min-height: 30rem;
-  background-size: cover;
 }
 
 @media (min-width: 768px) {
@@ -97,13 +85,13 @@ header.masthead h1 {
 
 .call-to-action {
   position: relative;
-  background-color: #343a40;
-  background: url("../img/bg-masthead.jpg") no-repeat center center;
+  background-color: #1461ad;
+  background: url("/images/banner.jpg") no-repeat center center;
   background-size: cover;
   padding-top: 7rem;
   padding-bottom: 7rem;
 }
-
+ 
 .call-to-action .overlay {
   position: absolute;
   background-color: #212529;
@@ -112,7 +100,7 @@ header.masthead h1 {
   top: 0;
   left: 0;
   opacity: 0.3;
-}
+} 
 
 footer.footer {
   padding-top: 4rem;
